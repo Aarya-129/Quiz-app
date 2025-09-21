@@ -36,7 +36,7 @@
 
   <section id="Screenshot">
     <h2>Screenshot</h2>
-    ![Main page of the Quiz application](Main page of the Quiz application.png)
+    ![Main page of the Quiz application]([Main page of the Quiz application.png](https://github.com/Aarya-129/Quiz-app/blob/main/Main%20page%20of%20the%20Quiz%20application.png)?raw=true)
     ![Multiple choice quiz with timer](Multiple choice quiz with timer.png)
     ![Shows green for right and red for wrong answer](Shows green for right and red for wrong answer.png)
     ![Shows the score and feedback](Shows the score and feedback.png)
