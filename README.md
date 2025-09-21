@@ -35,12 +35,12 @@
   </section>
 
   <section id="Screenshot">
-    <h2>Screenshot</h2>
-    !([Main page of the Quiz application.png](https://github.com/Aarya-129/Quiz-app/blob/main/Main%20page%20of%20the%20Quiz%20application.png?raw=true)
-    ![Multiple choice quiz with timer](Multiple choice quiz with timer.png)
-    ![Shows green for right and red for wrong answer](Shows green for right and red for wrong answer.png)
-    ![Shows the score and feedback](Shows the score and feedback.png)
-  </section>
+  <h2>Screenshot</h2>
+  <img src="Main%20page%20of%20the%20Quiz%20application.png" alt="Main page of the Quiz application">
+  <img src="Multiple%20choice%20quiz%20with%20timer.png" alt="Multiple choice quiz with timer">
+  <img src="Shows%20green%20for%20right%20and%20red%20for%20wrong%20answer.png" alt="Shows green for right and red for wrong answer">
+  <img src="Shows%20the%20score%20and%20feedback.png" alt="Shows the score and feedback">
+</section>
 
   <section id="getting-started">
     <h2>Getting Started</h2>
