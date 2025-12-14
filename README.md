@@ -26,15 +26,6 @@
 
   <hr>
 
-  <details>
-    <summary><strong>View Demo</strong></summary>
-    <p align="center">
-      <img src="path/to/demo-screenshot.png" alt="Quiz App Screenshot" width="600">
-    </p>
-  </details>
-
-  <hr>
-
   <h2 id="features">Features</h2>
   <ul>
     <li>🎯 Interactive multiple-choice quizzes</li>
