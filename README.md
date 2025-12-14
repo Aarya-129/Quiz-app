@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Quiz App – HTML, CSS, JavaScript</title>
 </head>
 <body>
 
@@ -17,7 +16,6 @@
 
   <h2>Table of Contents</h2>
   <ul>
-    <li><a href="#demo">Demo</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
@@ -27,8 +25,6 @@
   </ul>
 
   <hr>
-
-  <h2 id="demo">Demo</h2>
 
   <details>
     <summary><strong>View Demo</strong></summary>
